@@ -1,0 +1,5 @@
+# .gitattributes
+# Map file extensions to git filters
+
+keywords filter=keywords
+.git_filters/keywords filter=
